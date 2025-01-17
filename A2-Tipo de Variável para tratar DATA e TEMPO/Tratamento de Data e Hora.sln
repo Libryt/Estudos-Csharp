@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tratamento de Data e Hora", "Tratamento de Data e Hora\Tratamento de Data e Hora.csproj", "{270B1F1E-B430-4486-9A59-C796AD649728}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{270B1F1E-B430-4486-9A59-C796AD649728}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{270B1F1E-B430-4486-9A59-C796AD649728}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{270B1F1E-B430-4486-9A59-C796AD649728}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{270B1F1E-B430-4486-9A59-C796AD649728}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
